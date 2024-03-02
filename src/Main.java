@@ -1,6 +1,15 @@
+// Main.java
+
 import java.util.Scanner;
 
+/**
+ * Clase principal que solicita la edad al usuario y muestra los años restantes hasta la jubilación.
+ */
 public class Main {
+    /**
+     * Método principal que solicita la edad al usuario, calcula los años hasta la jubilación y muestra un mensaje.
+     * @param args Argumentos de línea de comandos (no se utilizan en este programa).
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese su edad en años:");
