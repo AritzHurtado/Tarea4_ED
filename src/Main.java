@@ -19,5 +19,3 @@ public class Main {
         }
     }
 }
-
-// Este comentario lo eliminaré con mi siguiente commit.
